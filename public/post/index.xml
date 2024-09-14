@@ -2,19 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Build Stuff From Scratch</title>
-        <link>http://localhost:1313/post/</link>
+        <link>https://buildfromscratch.pages.dev/post/</link>
         <description>Recent content in Posts on Build Stuff From Scratch</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 14 Sep 2024 12:33:12 +0000</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Web Server and Client in C</title>
-        <link>http://localhost:1313/post/web-server-and-client-in-c/</link>
-        <pubDate>Sat, 14 Sep 2024 12:33:12 +0000</pubDate>
-        
-        <guid>http://localhost:1313/post/web-server-and-client-in-c/</guid>
-        <description>&lt;h1 id=&#34;welcome&#34;&gt;welcome
-&lt;/h1&gt;</description>
-        </item>
-        
+        <lastBuildDate></lastBuildDate><atom:link href="https://buildfromscratch.pages.dev/post/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
