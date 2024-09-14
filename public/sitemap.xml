@@ -2,14 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://buildfromscratch.pages.dev/</loc>
+    <loc>http://localhost:36237/</loc>
     <lastmod>2024-09-14T12:33:12+00:00</lastmod>
   </url><url>
-    <loc>https://buildfromscratch.pages.dev/post/</loc>
+    <loc>http://localhost:36237/post/</loc>
     <lastmod>2024-09-14T12:33:12+00:00</lastmod>
   </url><url>
-    <loc>https://buildfromscratch.pages.dev/categories/</loc>
+    <loc>http://localhost:36237/post/web-server-and-client-in-c/</loc>
+    <lastmod>2024-09-14T12:33:12+00:00</lastmod>
   </url><url>
-    <loc>https://buildfromscratch.pages.dev/tags/</loc>
+    <loc>http://localhost:36237/search/</loc>
+  </url><url>
+    <loc>http://localhost:36237/categories/</loc>
+  </url><url>
+    <loc>http://localhost:36237/tags/</loc>
   </url>
 </urlset>
